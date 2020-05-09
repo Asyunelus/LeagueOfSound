@@ -1,5 +1,6 @@
 # LeagueOfSound
 장르 비틀기 결과물 (비 상업적, 대학 과제)  
+![다운로드수](https://img.shields.io/github/downloads/Asyunelus/LeagueOfSound/1.0/total)
 
 해당 실행파일에는 다음과 같은 효과음이 사용되었습니다.
 1. 피버 진입 사운드 및 풀 콤보 사운드 : DJMAX RESPECT V 에 삽입된 동일 효과음
